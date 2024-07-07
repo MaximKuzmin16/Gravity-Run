@@ -1,0 +1,67 @@
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Intro.resources
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Game.resources
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Rule.resources
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Recs.resources
+C:\Users\Максим\Desktop\I914Bkuzmin\C#\Cursach\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Name.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.Name.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.Game.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.Intro.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.Recs.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.Rule.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity Run\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.Name.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.Game.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.Intro.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.Menu.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.Recs.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.Rule.resources
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Максим\OneDrive\Desktop\ДЗ\GITHUB\Gravity_Run\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
