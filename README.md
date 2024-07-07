@@ -1,8 +1,7 @@
-#Gravity Run Game
-
+# Gravity Run Game
 Basic game created with C# WINFORMS
 
-Screenshots:
+SCREENSHOTS:
 
 ![image](https://github.com/MaximKuzmin16/Gravity-Run/assets/134335735/838620d4-683e-48fc-9e3c-1b523ddd5c5c)
 ![image](https://github.com/MaximKuzmin16/Gravity-Run/assets/134335735/ca1d598c-1dda-4425-8ad8-eda868dbf025)
